@@ -26,7 +26,7 @@
 
 ## Exemplar Code:
 ### Game of Life
-```
+```java
 
   
 import java.io.*;
