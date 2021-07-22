@@ -17,7 +17,7 @@
 - [Mode](https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/DS/mode)
 
 
-## [Methods I] (https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/meth1)
+## [Methods I](https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/meth1)
 - [01_lesson]()
 - [06_unplugged]()
 - [NetLogo](https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/blob/master/meth1/NetLogo.md)
