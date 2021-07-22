@@ -2,13 +2,13 @@
 
 ## Programming in Java
 
-- [1] (https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/1)
-- [2] (https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/2)
-- [3] (https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/3/skel)
-- [4] (https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/4)
-- [5] (https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/5)
-- [6] (https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/6)
-- [7] (https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/7)
+- [1](https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/1)
+- [2](https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/2)
+- [3](https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/3/skel)
+- [4](https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/4)
+- [5](https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/5)
+- [6](https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/6)
+- [7](https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/7)
 
 ## [Data Structures](https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/DS)
 - [Lists](https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/tree/master/DS/lists)
@@ -22,7 +22,7 @@
 - [06_unplugged]()
 - [NetLogo](https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/blob/master/meth1/NetLogo.md)
 - [Graph.java](https://github.com/hunter-teacher-cert/work_csci70900-leungbenson/blob/master/meth1/Graph.java)
-- [Graph Notes] (https://jamboard.google.com/d/1l5c3wiCegt2PTr3TbW21lGiX3nhcE4AKyp79FPV1SNE/viewer?f=1)
+- [Graph Notes](https://jamboard.google.com/d/1l5c3wiCegt2PTr3TbW21lGiX3nhcE4AKyp79FPV1SNE/viewer?f=1)
 
 ## Exemplar Code:
 ### Game of Life
