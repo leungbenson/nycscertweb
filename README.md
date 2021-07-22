@@ -26,9 +26,7 @@
 
 ## Exemplar Code:
 ### Game of Life
-```java
-
-  
+```java 
 import java.io.*;
 import java.util.*;
 
@@ -287,5 +285,4 @@ public class Cgol{
   }//end main()
 
 }//end class
-
 ```
